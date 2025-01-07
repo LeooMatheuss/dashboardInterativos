@@ -1,0 +1,7 @@
+Date,Category,Type,Amount,Region
+2024-01-01,Food,Expense,200,North
+2024-01-02,Salary,Income,3000,North
+2024-01-05,Entertainment,Expense,150,South
+2024-01-07,Rent,Expense,800,West
+2024-01-10,Freelance,Income,500,East
+2024-01-12,Utilities,Expense,300,North
